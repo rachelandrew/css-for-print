@@ -9,4 +9,4 @@ The file book.html contains excerpts from a public domain book - [Our Cats by Ha
 
 ### Create a PDF
 
-    > prince -s pdf-styles.css book.html builds/book.pdf
+    > prince -s pdf-styles.css book.html -o builds/book.pdf
